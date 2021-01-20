@@ -13,7 +13,7 @@ def reshape(img,length,width):
             img = cv2.resize(img,(length,width))
     return img
 
-
+随时随
 #计算图像面积
 def getArea(img):
     area = 0
